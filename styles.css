@@ -1,0 +1,112 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+a {
+    
+    display: inline-block;
+    font-family: 'Poppins';
+}
+
+.products
+
+header{
+    
+    font-size: 14px;
+    Line height: 21px;
+    color: #17233D;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    
+}
+
+.products {
+    margin: 47px 36px 0 42px;
+}
+
+.company {
+    margin: 47px 32px 0 0;
+}
+
+.blog {
+    margin: 47px 32px 0 0;
+}
+
+.login {
+    margin: 48px 0 0 0;  
+}
+
+.sign {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    margin: 32px 0 0 32px; 
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    text-align: center;
+    padding: 13px 29px 14px 28px;
+    color: #FFFFFF;
+}
+
+div {
+    display: inline-block;
+}
+
+img {
+    margin: 120.2px 0 0 182.18px; 
+    width: 533.83px;
+    height: 466.9px;
+    display: inline-block;
+    }
+    
+
+h1 {
+font-family:'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 62px;
+line-height: 82px;
+width: 582px;
+color: #161A49;
+display: inline-block;
+position: absolute;
+margin-top: 180px;
+}
+
+.shared{
+font-family:'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+width: 493px;
+color: #4B505A;
+display: inline-block;
+position: absolute;
+margin-top: 365px;
+}
+
+.learn {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #6FBF44;
+display: inline-block;
+position: absolute;
+margin-top: 500px;
+cursor: pointer;
+}
+
+
