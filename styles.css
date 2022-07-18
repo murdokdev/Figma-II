@@ -71,6 +71,7 @@ img {
     
 
 h1 {
+text-transform: unset;
 font-family:'Poppins';
 font-style: normal;
 font-weight: 700;
